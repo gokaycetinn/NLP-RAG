@@ -1,4 +1,4 @@
-# HukukRAG — Turkish Legal RAG Pipeline
+# Turkish Legal Question Answering with an Optimized RAG Pipeline
 
 <p align="center">
   <b>Optimized Retrieval-Augmented Generation system for Turkish legal question answering with grounded citations.</b>
